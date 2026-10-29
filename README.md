@@ -1,32 +1,87 @@
-<div align="center">
+<table>
+<tr>
+<td valign="top">
+<pre>
+%%%*--######%%#*+****=.  ..
+###*--*########*+++**=.                 .      ..   ...    .
+**+=:-==+======++++**=.                                   ..
+==-----=======++++++*=.
+###+:-*####**##*+++**=
+###+:-****++***++++**=
+##*+:=****+++**+=++**=..:--====------=-:.....
+***+:=**++==+++++++*#*++***#%%**+*#%@@%##*++=--::.
+===---=========++++#@@@%%%@%%#+++=+++++++#@@#+=---:
+%#%*-+%%%%###%%###@@@@%%@@@@@@@%*++##++====*#**+==-.
+@%%*-+#%%#+*###@@@@@@@@%@@@@@@@%#*+**+=::==-=*+*+:.::.....:.
+%%%+-*#%%*+*##@@@@@@@@@%*++#*++===+=-:...-=--++=---::..:--..
+%%%+-+#%%*=+*#@@@@@@@@%*===--=-:---==-:..:-=-=#*--:...::::--
+%%%+-*#%#+=+#%@@@@@@%#*==---==::--:-==:::-==+*=..:.. ...:--=
+@@%+-*%%%++@@@@@@%%@%*==---:::::::--=-:::::--+****=:  .::---
+@@%+-*%%%#%%#%@#+=+*%#+=--::.....::--:....:--=#@@%+-......::
+%%#=-*###%%*+%%::---##+=---::....:-:--:....:-=%@@*::--:.....
+%%#=-*#%%@@@@@@%*+=*%#+=----::::::::..:::...:+@@#.  :--::...
+@%#=-*#%##@@@@@@@%%@%*====----::::::...::....+%%-      .::--
+%@%==#%%%+=*@@@@@@@@@#+====--::::::....:::::-#%#:         ..
+@%#==#@@%*++*#%@@@@@@%#+===---:::::::::::::-=*%@*.
+%##==#@@@@@@@%@@@@@@@%%%#++=--::...:::::::===-=#*:
++++*%@@@@@@@@@@@@@@@%%%%%%@%#+==-:::::::-+%####%*#*=.
+%@@@@@@@@@@@@@@@@@@@%###%%%@@@@%##**===+#@@@@@@@@@@%#+:
+@@@@@@@@@@@@@@@@@@@@%+==**+===++*###*++#@@@@@@@@@@@@@@*-
+@@@@@@%%%%###%@@@@@@%+=-=+=-:...:------=#@@@@@@%%@%%%%%+:
+@@@@%##**###*#@@@@@@%+=--==-::.::::..::-+*%@@%###%######***+
+@@@@%******#**%%@@@@#==----::.........:-==+*#%@@@@%%%%%#%%#+
+@@@%*+++++****###%*#+=-=-::::.........:-===+%@@@@@%%%%%#***+
+@@%#+++++******###+==----::...........-===+@@@@@@@@%@%**++++
+@@%+++*#%%%#**+++**==-..--..........:===-=%@@@@@@@@%%%#**+++
+*******#%@%****++**+==::--:....:::--==*#*#@@@@@@@@@%#****+++
+*+*###**%%##%%#*#%#*++==-::::::--=+=-=+*#@@@@@@@@@@%%#**++++
+</pre>
+</td>
+<td valign="top">
+<pre>
+ayzen@github:~$ whoami
+ayzen
 
-  <!-- Header Typing / Title -->
-  <h1>🚀 Hi, I'm Ayzen!</h1>
-  
-  <h3><i>code. build. Ideas and resolve.</i></h3>
+ayzen@github:~$ cat bio
+code. build. ideas and resolve.
 
-  <br />
+ayzen@github:~$ cat about
+Computer science student, cyber security focus.
+Learning full stack development and building
+web apps.
 
-  <!-- About Me Section -->
-  <p align="left">
-    - 🔭 I’m currently working on exciting software projects.<br>
-    - 🌱 I’m constantly learning and turning new ideas into reality.<br>
-    - 📫 How to reach me: ayz.proffes@gmail.com
-  </p>
+ayzen@github:~$ ls links
+<a href="https://github.com/ayzen">github</a>  <a href="https://instagram.com/thecrying.poet">instagram</a>
+</pre>
+</td>
+</tr>
+</table>
 
-  <br />
+## Stack
 
-  <!-- Tech Stack Badges -->
-  <h3>🛠️ Languages & Tools</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+| Area | Tools |
+| --- | --- |
+| Languages | `JavaScript` `Python` `SQL` `HTML` `CSS` |
+| Runtime and frameworks | `Node.js` `React` |
+| Tooling | `Git` `GitHub` |
 
-  <br /><br />
+JavaScript is my main language.
 
-  <!-- Live GitHub Stats -->
-  <h3>📈 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=ayzen&show_icons=true&theme=radical&hide_border=true" />
+## Projects
 
-</div>
+### Idea DNA
+A tool to capture and format ideas, and to help communities build faster and cooperate more easily.
+<!-- TODO: add stack, status, and repo link -->
+
+### AegisRoad
+An app that identifies road accident victims' injuries, gives first aid tips and advice, and sends a notification when you approach an accident-prone area.
+<!-- TODO: add stack, status, and repo link -->
+
+## Currently
+
+- Learning full stack development
+- Building web apps
+
+## Links
+
+[GitHub](https://github.com/ayzen) · [Instagram @thecrying.poet](https://instagram.com/thecrying.poet)
