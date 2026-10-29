@@ -1,73 +1,22 @@
-<table>
-<tr>
-<td valign="top">
-<pre>
-%%%*--######%%#*+****=.  ..
-###*--*########*+++**=.                 .      ..   ...    .
-**+=:-==+======++++**=.                                   ..
-==-----=======++++++*=.
-###+:-*####**##*+++**=
-###+:-****++***++++**=
-##*+:=****+++**+=++**=..:--====------=-:.....
-***+:=**++==+++++++*#*++***#%%**+*#%@@%##*++=--::.
-===---=========++++#@@@%%%@%%#+++=+++++++#@@#+=---:
-%#%*-+%%%%###%%###@@@@%%@@@@@@@%*++##++====*#**+==-.
-@%%*-+#%%#+*###@@@@@@@@%@@@@@@@%#*+**+=::==-=*+*+:.::.....:.
-%%%+-*#%%*+*##@@@@@@@@@%*++#*++===+=-:...-=--++=---::..:--..
-%%%+-+#%%*=+*#@@@@@@@@%*===--=-:---==-:..:-=-=#*--:...::::--
-%%%+-*#%#+=+#%@@@@@@%#*==---==::--:-==:::-==+*=..:.. ...:--=
-@@%+-*%%%++@@@@@@%%@%*==---:::::::--=-:::::--+****=:  .::---
-@@%+-*%%%#%%#%@#+=+*%#+=--::.....::--:....:--=#@@%+-......::
-%%#=-*###%%*+%%::---##+=---::....:-:--:....:-=%@@*::--:.....
-%%#=-*#%%@@@@@@%*+=*%#+=----::::::::..:::...:+@@#.  :--::...
-@%#=-*#%##@@@@@@@%%@%*====----::::::...::....+%%-      .::--
-%@%==#%%%+=*@@@@@@@@@#+====--::::::....:::::-#%#:         ..
-@%#==#@@%*++*#%@@@@@@%#+===---:::::::::::::-=*%@*.
-%##==#@@@@@@@%@@@@@@@%%%#++=--::...:::::::===-=#*:
-+++*%@@@@@@@@@@@@@@@%%%%%%@%#+==-:::::::-+%####%*#*=.
-%@@@@@@@@@@@@@@@@@@@%###%%%@@@@%##**===+#@@@@@@@@@@%#+:
-@@@@@@@@@@@@@@@@@@@@%+==**+===++*###*++#@@@@@@@@@@@@@@*-
-@@@@@@%%%%###%@@@@@@%+=-=+=-:...:------=#@@@@@@%%@%%%%%+:
-@@@@%##**###*#@@@@@@%+=--==-::.::::..::-+*%@@%###%######***+
-@@@@%******#**%%@@@@#==----::.........:-==+*#%@@@@%%%%%#%%#+
-@@@%*+++++****###%*#+=-=-::::.........:-===+%@@@@@%%%%%#***+
-@@%#+++++******###+==----::...........-===+@@@@@@@@%@%**++++
-@@%+++*#%%%#**+++**==-..--..........:===-=%@@@@@@@@%%%#**+++
-*******#%@%****++**+==::--:....:::--==*#*#@@@@@@@@@%#****+++
-*+*###**%%##%%#*#%#*++==-::::::--=+=-=+*#@@@@@@@@@@%%#**++++
-</pre>
-</td>
-<td valign="top">
-<pre>
-ayzen@github:~$ whoami
-ayzen
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+    <img src="./dark.svg" alt="ayzen: developer and computer science student with a cyber security focus. Building Idea DNA and AegisRoad, learning full stack development and web apps." width="100%">
+  </picture>
+</div>
 
-ayzen@github:~$ cat bio
-code. build. ideas and resolve.
+> code. build. ideas and resolve.
 
-ayzen@github:~$ cat about
-Computer science student, cyber security focus.
-Learning full stack development and building
-web apps.
+Developer and computer science student with a cyber security focus. Currently learning full stack development and building web apps.
 
-ayzen@github:~$ ls links
-<a href="https://github.com/ayzen">github</a>  <a href="https://instagram.com/thecrying.poet">instagram</a>
-</pre>
-</td>
-</tr>
-</table>
+## About
 
-## Stack
+- **Focus:** computer science, cyber security
+- **Building:** Idea DNA, AegisRoad
+- **Learning:** full stack development, web apps
 
-| Area | Tools |
-| --- | --- |
-| Languages | `JavaScript` `Python` `SQL` `HTML` `CSS` |
-| Runtime and frameworks | `Node.js` `React` |
-| Tooling | `Git` `GitHub` |
-
-JavaScript is my main language.
-
-## Projects
+## Featured projects
 
 ### Idea DNA
 A tool to capture and format ideas, and to help communities build faster and cooperate more easily.
@@ -77,11 +26,14 @@ A tool to capture and format ideas, and to help communities build faster and coo
 An app that identifies road accident victims' injuries, gives first aid tips and advice, and sends a notification when you approach an accident-prone area.
 <!-- TODO: add stack, status, and repo link -->
 
-## Currently
+## Engineering stack
 
-- Learning full stack development
-- Building web apps
+| Area | Tools |
+| --- | --- |
+| Languages | `JavaScript` `Python` `SQL` `HTML` `CSS` |
+| Runtime and frameworks | `Node.js` `React` |
+| Tooling | `Git` `GitHub` |
 
-## Links
+## Connect
 
 [GitHub](https://github.com/ayzen) · [Instagram @thecrying.poet](https://instagram.com/thecrying.poet)
